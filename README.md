@@ -4,5 +4,5 @@
 
 * 취미로 하는 Javascript, React 공부 내용입니다!
 
-📒 참고 강의(1) : https://nomadcoders.co/javascript-for-beginners?gad_source=1&gclid=CjwKCAjwgpCzBhBhEiwAOSQWQVCMKh5Dek82uRs57a1EakRCmiKlmszvHpKKauelwKtGlcd7RykSkhoCqxcQAvD_BwE<br>
-   참고 강의(2) : https://nomadcoders.co/react-for-beginners/lobby
+📒 참고 강의(1) : https://nomadcoders.co/javascript-for-beginners<br>
+📕 참고 강의(2) : https://nomadcoders.co/react-for-beginners/lobby
